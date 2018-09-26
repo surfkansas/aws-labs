@@ -56,7 +56,7 @@ On the bread crum trail (or by using the back button), navigate to the bucket ov
 
 Click on the `Properties` tab.  From here, you will see several settings you can turn on for a bucket.  The one we care about is `Static website hosting`.  Click it.
 
-From this dialog, select `Use this bucket to host a website`.  Once selecting this, type `index.html` for the index document.  (As a note for people familiar with IIS, S3 websites are case-sensitive.  The is a difference between `index.html` and `Index.html`.)
+From this dialog, select `Use this bucket to host a website`.  Once selecting this, type `index.html` for the index document.  (As a note for people familiar with IIS, S3 websites are case-sensitive.  There is a difference between `index.html` and `Index.html`.)
 
 Make note of the endpoint listed.  It is in the form of:
 
