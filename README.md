@@ -14,3 +14,4 @@ The current labs available are:
 * [Lab 1](labs/lab-1.md) - Getting Started
 * [Lab 2](labs/lab-2.md) - Intro to S3
 * [Lab 3](labs/lab-3.md) - Intro to Lambda
+* [Lab 4](labs/lab-4.md) - Intro to API Gateway

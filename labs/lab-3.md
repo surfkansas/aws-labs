@@ -20,7 +20,7 @@ This gives you a few options - '`Author from scratch`', '`Blueprints`', and '`AW
 
 Before we can create our function, we need to specific a few items.
 
-First, we need a name.  Give our function the name '`hello-world-labmda`'.  
+First, we need a name.  Give our function the name '`hello-world-lamdda`'.  
 
 Next, we need to pick the runtime for our function.  Lambda supports a number of different runtimes, each with their own pros and cons.  For our labs, we will be using the '`Python 3.6`' runtime.
 
